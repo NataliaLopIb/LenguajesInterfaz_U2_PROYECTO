@@ -1,0 +1,5 @@
+BLU-123 | BLUSH | 560.34 MXN | 2
+DEL-234 | Dealineador | 34.60 MXN | 5
+COR-345 | corrector | 367.90 MXN | 5
+PER-505 | Delineador negro | 99.49 MXN | 4
+LAB-101 | labial rojo | 345.98 MXN | 21

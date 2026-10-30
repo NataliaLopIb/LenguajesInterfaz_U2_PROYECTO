@@ -1,0 +1,3 @@
+[ENTRADA] Codigo: PER-505 | Cantidad actual: 4
+[ENTRADA] Codigo: LAB-101 | Cantidad actual: 25
+[SALIDA]  Codigo: LAB-101 | Cantidad actual: 21
